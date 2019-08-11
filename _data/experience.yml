@@ -7,9 +7,9 @@
   quote: >
    E-commerce
   description: | # this will include new lines to allow paragraphs
-    * development of a Scala-based Rest Microservices (around 20 services in a team with 5 dev memmbers)
+    * development of a Scala-based Rest Microservices (around 20 services in a team with 5 dev members)
     * using AWS, Docker
-    * All services are promoted to Live throught CI/CD
+    * All services are promoted to Live through CI/CD
     * actively migrate services from AWS to Kubernetes
     * migrate cron-based architecture to event-driven
     * **Used tech stack**: AWS, K8s, Postgres, Nakadi(Kafka), Scala, Java
