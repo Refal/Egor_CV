@@ -1,56 +1,58 @@
 # Site
-repository: sproogen/resume-theme
+repository: Refal/egor_cv
 # favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Egor Surovtsev
+title: Software Engineer at Zalando SE
+location: Berlin, Germany
+phone: +49 163 043 76 47
+email: esurovtsev@gmail.com
+website: www.github.com/refal
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+twitter_username: Refal82
+github_username:  refal
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
+instagram_username: esurovtsev
+linkedin_username: esurovtsev
 # pinterest_username: jekyll
-youtube_username: globalmtb
+#youtube_username: globalmtb
 # googleplus_username: +jekyll
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/egor_1.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
-
-# Projects Section
-# projects_title: Projects
+  * A full-stack Java developer with more than 10 years of experience in software engineering
+  * 2 years scala
+  * 8 years of experience in Enterprise applications development (Trading/Banking) and more than 2 years in E-commerce
+  * The combination of technical (Senior Developer) and management (Team Lead/SCRUM Master) background is helping a lot to balance between being keen on code quality and pragmatic focusing on the actual result
+  * Keen on Agile processes as a tool helping teams to be effective in getting things done
+  * Keen on continuous delivery as a way of making those things live smoothly and seamlessly
+  * Keen on automating every routine piece of work not meant for humans
 
 # Experience Section
-# experience_title: Experience
+# experience_title: Experience #(Use this to override about experience section title)
 
 # Education Section
 # educaton_title: Education
 
 # More Section
-# more_title: A Little More About Me
+# more_title: My hobbies
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+  * I am keen on traveling and visited already more than 30 countries
+  * Hiking - I am trying to go out for at weekend and walk around 20 km per day
 
 # Footer
 footer_show_references: true
 
 # Build settings
-remote_theme: sproogen/resume-theme
+# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
+# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
 
 sass:
   sass_dir: _sass
@@ -58,3 +60,16 @@ sass:
 
 plugins:
  - jekyll-seo-tag
+
+exclude : [
+  "Gemfile",
+  "Gemfile.lock",
+  "node_modules",
+  "vendor/bundle/",
+  "vendor/cache/",
+  "vendor/gems/",
+  "vendor/ruby/",
+  "lib/",
+  "scripts/",
+  "docker-compose.yml",
+  ]
