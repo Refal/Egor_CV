@@ -13,18 +13,13 @@ website: www.github.com/refal
 # Social links
 twitter_username: Refal82
 github_username:  refal
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
+facebook_username: esurovtsev
 instagram_username: esurovtsev
 linkedin_username: esurovtsev
-# pinterest_username: jekyll
-#youtube_username: globalmtb
-# googleplus_username: +jekyll
 
 # About Section
 # about_title: About Me
-about_profile_image: images/egor_1.jpg
+about_profile_image: images/egor-photo.jpg
 about_content: | # this will include new lines to allow paragraphs
 
   * A full-stack Java developer with more than 10 years of experience in software engineering
