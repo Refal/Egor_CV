@@ -1,9 +1,21 @@
 # Experience template
 - layout: left
+  company: OLX Group
+  link: https://olx.com/
+  job_title: Senior Software Engineer
+  dates: Januar 2020 - present
+  quote: >
+    E-commerce
+  description: | # this will include new lines to allow paragraphs
+   * Developing services responsible for identifying fraudulent users on a platform and automatically or manually handle them.
+   * Tech stack:
+      - Kotlin, Javascript, PHP,
+      - AWS, Kubernetes, Elasticsearch
+- layout: left
   company: Zalando SE
   link: https://en.zalando.de/
   job_title: Software Engineer
-  dates: November 2017 - Present
+  dates: November 2017 - Januar 2020
   quote: >
    E-commerce
   description: | # this will include new lines to allow paragraphs
