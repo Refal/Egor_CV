@@ -4,7 +4,7 @@ repository: Refal/egor_cv
 
 # Personal info
 name: Egor Surovtsev
-title: Software Engineer at Zalando SE
+title: Senior Software Engineer at OLX Group
 location: Berlin, Germany
 phone: +49 163 043 76 47
 email: esurovtsev@gmail.com
@@ -22,9 +22,9 @@ linkedin_username: esurovtsev
 about_profile_image: images/egor-photo.jpg
 about_content: | # this will include new lines to allow paragraphs
 
-  * A full-stack Java developer with more than 10 years of experience in software engineering
+  * A full-stack Java developer with more than 15 years of experience in software engineering
   * 2 years scala
-  * 8 years of experience in Enterprise applications development (Trading/Banking) and more than 2 years in E-commerce
+  * 8 years of experience in Enterprise applications development (Trading/Banking) and more than 3 years in E-commerce
   * The combination of technical (Senior Developer) and management (Team Lead/SCRUM Master) background is helping a lot to balance between being keen on code quality and pragmatic focusing on the actual result
   * Keen on Agile processes as a tool helping teams to be effective in getting things done
   * Keen on continuous delivery as a way of making those things live smoothly and seamlessly
