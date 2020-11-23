@@ -9,8 +9,8 @@
   description: | # this will include new lines to allow paragraphs
    * Developing services responsible for identifying fraudulent users on a platform and automatically or manually handle them.
    * Tech stack:
-      - Kotlin, Javascript, PHP,
-      - AWS, Kubernetes, Elasticsearch
+      ** Kotlin, Javascript, PHP,
+      ** AWS, Kubernetes, Elasticsearch
 - layout: left
   company: Zalando SE
   link: https://en.zalando.de/
